@@ -313,11 +313,3 @@ This guide will walk you through the process of hosting your complete MERN stack
 
 - Congratulations! Your app is now live and accessible.
 
-## Contributions
-
-| Contributor                                           |
-| ----------------------------------------------------- |
-| [ImgBotApp](https://github.com/ImgBotApp)             |
-| [MehraDevesh2022](https://github.com/MehraDevesh2022) |
-| [0dayhunter](https://github.com/MehraDevesh2022) |
-
